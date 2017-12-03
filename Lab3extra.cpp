@@ -1,4 +1,4 @@
-
+// –Ø –∑–Ω–∞—é —á—Ç–æ –ø–æ–∑–¥–Ω–æ, –Ω–æ –ø–æ–ø—ã—Ç–∞—é—Å—å
 
 
 #include "stdafx.h"
@@ -65,9 +65,9 @@ int main()
 			}
 		}
 		cout << endl << minAbonet.F << " " << minAbonet.I << " " << minAbonet.O << " " << endl;
-		cout << "ÒÂ‰ÌÂÂ ÔÓÚÂ·ÎÂÌËÂ:" << minAbonet.Sum / minAbonet.n << endl;
+		cout << "√±√∞√•√§√≠√•√• √Ø√Æ√≤√∞√•√°√´√•√≠√®√•:" << minAbonet.Sum / minAbonet.n << endl;
 		output << minAbonet.F << " " << minAbonet.I << " " << minAbonet.O << " " << endl;
-		output << "ÒÂ‰ÌÂÂ ÔÓÚÂ·ÎÂÌËÂ:" << minAbonet.Sum / minAbonet.n << endl;
+		output << "√±√∞√•√§√≠√•√• √Ø√Æ√≤√∞√•√°√´√•√≠√®√•:" << minAbonet.Sum / minAbonet.n << endl;
 	}
 	else
 	{
